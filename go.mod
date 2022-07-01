@@ -1,4 +1,4 @@
-module github.com/freshman-tech/news-demo
+module github.com/per1/news-demo
 
 go 1.15
 
